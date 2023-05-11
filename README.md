@@ -12,7 +12,7 @@ This is a comprehensive system for handling Dynamic Adaptive Streaming over HTTP
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/username/DASH-Streaming-System.git
+1. Clone the repository: git clone https://github.com/Mah514/DASH-Streaming-System.git
 2. Navigate into the project directory: cd DASH-streaming-system
 3. Install Python dependencies: pip install flask flask_cors mysql-connector-python
 
